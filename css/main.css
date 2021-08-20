@@ -1,0 +1,19 @@
+html {
+  font-family: sans-serif;
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 1.125rem;
+  background-color: #e2e2e2;
+}
+
+img {
+  width: 2rem;
+  padding: 1rem;
+}
+
+li {
+  color: #0074d9;
+  
+}
